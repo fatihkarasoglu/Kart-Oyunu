@@ -1,0 +1,31 @@
+body {
+    background-color: forestgreen;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.4rem;
+    margin-top: 150px;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+#startGame {
+    width: 150px;
+    height: 30px;
+    background-color: goldenrod;
+    color: #016f32;
+}
+
+#newCard {
+    width: 150px;
+    height: 30px;
+    background-color: goldenrod;
+    color: #016f32;
+}
